@@ -9,6 +9,7 @@
 3. Rename the downloaded file from Miracle. The following is the naming convention:
     - This season: new / Previous season: old
     - Official website: shopline / Shopee: shoppe / Store: store / B2B: b2b
+  
   Example: The store file name for this season should be: new_store
 
 4. Please put all named Excel files in the <raw_data> folder
