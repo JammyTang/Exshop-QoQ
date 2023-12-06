@@ -10,6 +10,6 @@
     - This season: new / Previous season: old
     - Official website: shopline / Shopee: shoppe / Store: store / B2B: b2b
   
-  Example: The store file name for this season should be: new_store
+    Example: The store file name for this season should be: new_store
 
 4. Please put all named Excel files in the <raw_data> folder
